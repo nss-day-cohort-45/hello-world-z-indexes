@@ -1,0 +1,25 @@
+.location {
+    display: flex;
+}
+
+.country__image {
+    height: 500px;
+    width: 500px;
+}
+
+.travel__image {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100%;
+    height: 500px;
+}
+
+.navigation {
+    display: flex;
+    font-size: 40px;
+    justify-content: space-around;
+}
+
+.navigation__link {
+    
+}
