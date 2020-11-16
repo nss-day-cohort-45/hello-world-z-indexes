@@ -1,4 +1,7 @@
 @import "guatemala.css";
+@import "canada.css";
+@import "ireland.css";
+@import "greece.css";
 .location {
     display: flex;
 }
