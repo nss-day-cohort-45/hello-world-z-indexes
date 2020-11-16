@@ -5,6 +5,9 @@
 .location {
     display: flex;
 }
+ul{
+    padding: 20px;
+}
 
 .country__image {
     height: 500px;
@@ -23,6 +26,7 @@
     font-size: 40px;
     justify-content: space-around;
 }
+
 
 .navigation__link {
     
