@@ -13,7 +13,7 @@ export const greekCities = () => {
         // contentElement.innerHTML += cityHTML
     }
     contentElement.innerHTML += `
-        <article class=".locations">
+        <article class=".location">
             ${cityHTML}
         </article>
     `
